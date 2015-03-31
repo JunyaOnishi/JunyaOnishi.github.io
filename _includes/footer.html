@@ -7,8 +7,17 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li id="footerImg">
+          </li>
+          <script>
+            var http = window.location.host;
+            var element = document.getElementById("footerImg");
+            element.innerHTML='<img src="http://'+http+'/img/icon.jpg" class="juggernaut">';
+          </script>
+          <li>{{ site.author }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          </li>
+          <li>{{ site.aboutMe }}</li>
         </ul>
       </div>
       <div class="footer-col  footer-col-2">
