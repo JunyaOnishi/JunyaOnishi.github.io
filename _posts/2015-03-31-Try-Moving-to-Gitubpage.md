@@ -11,7 +11,6 @@ categories: jekyll
 今度はsyntax highlighterも搭載し、Python, Ruby, md記法ととてもえんじにあっぽい構成になっています！
 
 ###phpでシングルトンパターン置いておきますね
-
 {% highlight php5 %}
 ==Singleton.php==
 <?php
@@ -50,5 +49,5 @@ class CallSingleton
 }
 
 $test = CallSIngleton::getInstance();
-var_dump($test);  // object(CallSingleton)[1]
+var_dump($test);
 {% endhighlight %}
