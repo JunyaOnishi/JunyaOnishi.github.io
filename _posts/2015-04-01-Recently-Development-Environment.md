@@ -12,8 +12,8 @@ categories: DevelopTools
 - [Nyagos](https://github.com/zetamatta/nyagos)(シェル)
 : 日本語シェルとしては貴重なのとlua拡張が使えるのでガシガシカスタマイズできるので気に入っている
 : .nyagosを育てるのが楽しい
-{% highlight lua %}
-==.nyagos==
+{% highlight lua linenos %}
+-- .nyagos
 -- This is a sample .nyagos written with Lua.
 -- Edit and put it on %USERPROFILE% or %HOME%
 
@@ -50,9 +50,7 @@ end
 : 本当にちょっとした変更や大量のテキストを修正したいときはConsoleからVimを起動している。
 : [Kaoriya](http://www.kaoriya.net/software/vim/) 版は微妙に使いにくいのでCream for Vimを使用してます。
 : 下記コマンドで入るものと一緒です。
-{% highlight Bash shell scripts %}
-===Chocolatey===
-<C:/>
+{% highlight Bash shell scripts linenos %}
 $ cinst -y vim
 {% endhighlight %}
 - [VirtualBox](https://www.virtualbox.org/)(仮想環境作成)
@@ -100,8 +98,8 @@ $ cinst -y vim
 - [itamae](https://github.com/itamae-kitchen/itamae)&[vagrant-itamae](https://github.com/chiastolite/vagrant-itamae)
 : きちんと動く喜び。これに尽きる。(gemのAnsiが文句言ってくるけど、それはAnsiのせいだし)
 : こんな感じでかなり緩く書ける
-{% highlight ruby%}
-===Vagrantfile===
+{% highlight ruby linenos %}
+# Vagrantfile
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 Vagrant.configure(2) do |config|
@@ -122,8 +120,8 @@ Vagrant.configure(2) do |config|
 end
 {% endhighlight %}
 
-{% highlight ruby%}
-===cookbook/recipe.rb===
+{% highlight ruby linenos %}
+# cookbook/recipe.rb
 execute 'yum-update' do
   command 'yum update -y'
 end

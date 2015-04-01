@@ -3,9 +3,29 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Me
+![Dota2]({{site.baseurl}}img/icon.png){: .juggernaut}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+- {{site.author}}
+- Hokkaido, Japan
+- フロント寄りエンジニア(ぶっちゃけ何でもやる)
+- 今日も今日とてWindowsで開発する。
+: Windowsだけはそろそろ辛い。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+##### 好きな言語
+- PHP5
+- Ruby
+- Python
+- CoffeeScript
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+##### 好きなエディタ
+- Vim
+- Sublime Text3
+- Atom
+
+### This Blog Powered by
+
+[![the jekyll logo][logo]][jekyll]
+
+[logo]: {{site.url}}img/logo-2x.png
+[jekyll]: http://jekyllrb.com/

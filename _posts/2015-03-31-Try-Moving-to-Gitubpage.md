@@ -10,10 +10,10 @@ categories: jekyll
 ###なにがちがうの？
 今度はsyntax highlighterも搭載し、Python, Ruby, md記法ととてもえんじにあっぽい構成になっています！
 
-###phpでシングルトンパターン置いておきますね
-{% highlight php5 %}
-==Singleton.php==
+##### phpでシングルトンパターン置いておきますね
+{% highlight php5 linenos %}
 <?php
+// Singleton.php
 trait Singleton
 {
     private static $instance = [];
@@ -38,9 +38,9 @@ trait Singleton
 }
 {% endhighlight %}
 
-{% highlight php5 %}
-==call.php==
+{% highlight php5 linenos %}
 <?php
+// call.php
 require_once('Singleton.php');
 
 class CallSingleton
