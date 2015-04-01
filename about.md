@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ### Me
-![Dota2]({{site.url}}img/icon.png){: .juggernaut}
+![Dota2]({{site.url}}img/icon.jpg){: .juggernaut}
 
 - {{site.author}}
 - Hokkaido, Japan
