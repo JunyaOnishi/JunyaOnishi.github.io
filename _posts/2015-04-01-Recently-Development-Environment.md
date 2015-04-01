@@ -68,6 +68,9 @@ $ cinst -y vim
 - [Grunt](http://gruntjs.com/)(タスクランナー)
 : 最近はConEmuで背後で動かしながら作業を行っている。
 : ライブリロード、コンパイル、アップロード、サイトマップの作成全部これで行っている
+- [jade]()
+- [Coffeescript]()
+
 
 ### 使わなくなったもの
 - [ckw mod](http://ckw-mod.github.io/)
@@ -81,13 +84,95 @@ $ cinst -y vim
 : テストファーストがまだまだ徹底できないので事後にテストを書くことが多かった
 : 結果的にデプロイにしか使っていなく、余りローカルに環境を用意しておく意味が無いので
 : [werker](http://wercker.com/)に乗り換えた、事後でテストも書けるし取り敢えずデプロイするのにも使える
+- [Chef](https://www.chef.io/)&[Berkshelf](http://berkshelf.com/)
+: まともに動いた試しがない。
+: ChefDKすら安心感がない、そもそもBerkshelf動かない
 
 ### 新しく使うようになったもの
 - [Bower](http://bower.io/)
-: 最近はオリジナルよりも速度重視で「車輪の再発明」はしないをコンセプトに組み立てている。
+: 最近は「オリジナルさ」よりも速度重視で「車輪の再発明」はしないをコンセプトに組み立てている。
 : これ以上無いぐらい強力な相棒となっている
 - [Browserify](http://browserify.org/)
 : commonJSスタイルを徹底するようになったので使うようになった魔法の杖
 : 非常に使いやすいので楽しんで書いている
 - [Slack](https://slack.com/)
-: とにかく連携機能が協力なので、使っている基本的に開発仲間との連絡とか、自分用にビルドが通ったとか、エアコンをオンオフしたりとか、そういう報告を受けるのに使っている。
+: とにかく連携機能が強力なので、使っている基本的に開発仲間との連絡とか、自分用にビルドが通ったとか、エアコンをオンオフしたりとか、そういう報告を受けるのに使っている。
+- [itamae](https://github.com/itamae-kitchen/itamae)&[vagrant-itamae](https://github.com/chiastolite/vagrant-itamae)
+: きちんと動く喜び。これに尽きる。(gemのAnsiが文句言ってくるけど、それはAnsiのせいだし)
+: こんな感じでかなり緩く書ける
+{% highlight ruby%}
+===Vagrantfile===
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+Vagrant.configure(2) do |config|
+  config.vm.box = "chef/centos-7.0"
+  config.vm.box_check_update = false
+  config.vm.network "forwarded_port", guest: 80, host: 8083
+  config.vm.network "private_network", ip: "192.168.33.10"
+  config.vm.provider "virtualbox" do |vb|
+    vb.memory = "2048"
+    # 通信が異常に重くなるバグの回避
+    vb.customize ["modifyvm", :id, "--natdnsproxy1", "off"]
+    vb.customize ["modifyvm", :id, "--natdnshostresolver1", "off"]
+  end
+  config.vm.provision :itamae do |config|
+    config.sudo = true
+    config.recipes = ['cookbook/recipe.rb']
+  end
+end
+{% endhighlight %}
+
+{% highlight ruby%}
+===cookbook/recipe.rb===
+execute 'yum-update' do
+  command 'yum update -y'
+end
+
+package "httpd" do
+  action :install
+end
+
+package "mariadb" do
+  action :install
+end
+
+package "mariadb-server" do
+  action :install
+end
+
+package "php" do
+  action :install
+end
+
+package "php-devel" do
+  action :install
+end
+
+package "php-pdo" do
+  action :install
+end
+
+package "php-mbstring" do
+  action :install
+end
+
+package "php-xml" do
+  action :install
+end
+
+package "php-xmlrpc" do
+  action :install
+end
+
+package "php-mysql" do
+  action :install
+end
+
+execute 'remove-var-www-html' do
+  command 'rm -drf /var/www/html'
+end
+
+link "/var/www/html" do
+  to "/vagrant/"
+end
+{% endhighlight %}
