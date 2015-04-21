@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "S3で静的サイトを作る際のGruntfile"
-date:   2015-04-03 8:56:50
+title: "S3で静的サイトを作る際のGruntfile"
+date: 2015-04-03 8:56:50
 categories: Gruntfile
 ---
 ### はじめに

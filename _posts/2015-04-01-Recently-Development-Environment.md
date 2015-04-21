@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "最近の開発環境"
-date:   2015-04-01 10:16:50
+title: "最近の開発環境"
+date: 2015-04-01 10:16:50
 categories: DevelopTools
 ---
 ### 使っているもの
@@ -53,6 +53,7 @@ end
 {% highlight Bash shell scripts linenos %}
 $ cinst -y vim
 {% endhighlight %}
+> 追記:Cream VimがUpdateでウンコ化したので、いまはKaoriya版をつかってます。
 - [VirtualBox](https://www.virtualbox.org/)(仮想環境作成)
 : 問題児、Stable(動かない)をよくやる。
 : 現状の選択肢がこれしか無いので、仕方なく使っている。
@@ -66,9 +67,11 @@ $ cinst -y vim
 - [Grunt](http://gruntjs.com/)(タスクランナー)
 : 最近はConEmuで背後で動かしながら作業を行っている。
 : ライブリロード、コンパイル、アップロード、サイトマップの作成全部これで行っている
-- [jade]()
-- [Coffeescript]()
-
+- [jade](http://jade-lang.com/)
+: 使いやすい、似たようなページを大量に作るときの相棒
+- [Coffeescript](http://coffeescript.org/)
+: 究極のゆるふわ記法
+: 彼女にしたい言語No1
 
 ### 使わなくなったもの
 - [ckw mod](http://ckw-mod.github.io/)

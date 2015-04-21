@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "GithubPageに引っ越ししてみた"
-date:   2015-03-31 14:17:50
+title: "GithubPageに引っ越ししてみた"
+date: 2015-03-31 14:17:50
 categories: jekyll
 ---
 ###ことのあらまし

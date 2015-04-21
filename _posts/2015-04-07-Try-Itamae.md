@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Chefをぶん投げてitamaeに乗り換えたお話"
-date:   2015-04-07 9:50:50
+title: "Chefをぶん投げてitamaeに乗り換えたお話"
+date: 2015-04-07 9:50:50
 categories: itamae
 ---
 ### はじめに
-ところでみなさん、[Chef](https://www.chef.io/)は好きですか？  
-C言語コンパイルエラーで消耗してますか？  
+ところでみなさん、[Chef](https://www.chef.io/)は好きですか？
+C言語コンパイルエラーで消耗してますか？
 特に意味なく消されるWin用コードとStable(動かない)に消耗してませんか？
 
 #### もう我慢の限界だね！俺はプロビジョニングを楽にしたいだけなんだ！
 
 ### [itamae](https://github.com/itamae-kitchen/itamae)を使おう
-itamaeはクックパッドの社内ツールだったものがOSS化したものです。  
+itamaeはクックパッドの社内ツールだったものがOSS化したものです。
 凄い簡単にしたChef見たいな、学習コストも低く、導入障害点も少ない優れたツールです。
 
 > [Ansible](http://www.ansible.com/)? ドザーに取っては知らない子ですな。

@@ -1,0 +1,1274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_template_d",
+				"get_template_directory_uri"
+			],
+			[
+				"officer",
+				"officerhtml"
+			],
+			[
+				"class",
+				"class=\"doubleline"
+			],
+			[
+				"child",
+				"children	.children()"
+			],
+			[
+				"has",
+				"has	.has()"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"lib",
+				"libCss"
+			],
+			[
+				"slide",
+				"slideMargin"
+			],
+			[
+				"setting",
+				"settings"
+			],
+			[
+				"_pin",
+				"_pinOptions"
+			],
+			[
+				"_sc",
+				"_scrollOffset"
+			],
+			[
+				"logle",
+				"logLevel"
+			],
+			[
+				"trigger",
+				"triggerElement"
+			],
+			[
+				"container",
+				"containerOffset"
+			],
+			[
+				"ScrollScene",
+				"scrollScene"
+			],
+			[
+				"ref",
+				"refresh"
+			],
+			[
+				"scene",
+				"scenesToUpdate"
+			],
+			[
+				"_scro",
+				"_scrollDirection"
+			],
+			[
+				"refresh",
+				"refreshInterval"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"debug",
+				"debugEnabled"
+			],
+			[
+				"wrap",
+				"wrapElement"
+			],
+			[
+				"item",
+				"itemElements"
+			],
+			[
+				"min",
+				"minDiamondsPerRow"
+			],
+			[
+				"max",
+				"maxDiamondsPerRow"
+			],
+			[
+				"_",
+				"_triggerEvent"
+			],
+			[
+				"interval",
+				"interval_length"
+			],
+			[
+				"stroke",
+				"strokeJoin"
+			],
+			[
+				"strokeC",
+				"strokeColor"
+			],
+			[
+				"svg",
+				"svgData"
+			],
+			[
+				"setTime",
+				"setTimeOutHandler"
+			],
+			[
+				"data",
+				"dataKey"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"normalS",
+				"normalScrollElements"
+			],
+			[
+				"norma",
+				"normalScrollElements"
+			],
+			[
+				"scrollPage",
+				"scrollPageAndSlide"
+			],
+			[
+				"isFirst",
+				"isFirstScrollMove"
+			],
+			[
+				"scrollPa",
+				"scrollPageAndSlide"
+			],
+			[
+				"activate",
+				"activateNavDots"
+			],
+			[
+				"continuous",
+				"continuousVerticalFixSectionOrder"
+			],
+			[
+				"sec",
+				"sectionIndex"
+			],
+			[
+				"scrolli",
+				"scrollingSpeed"
+			],
+			[
+				"after",
+				"afterLoad"
+			],
+			[
+				"conti",
+				"continuousVerticalFixSectionOrder"
+			],
+			[
+				"trans",
+				"translate3d"
+			],
+			[
+				"wrao",
+				"wrapAroundElements"
+			],
+			[
+				"acti",
+				"activeSlide"
+			],
+			[
+				"loop",
+				"loopHorizontal"
+			],
+			[
+				"Mouse",
+				"addMouseWheelHandler"
+			],
+			[
+				"touch",
+				"touchEvents"
+			],
+			[
+				"normal",
+				"normalScrollElements"
+			],
+			[
+				"touchE",
+				"touchEndY"
+			],
+			[
+				"touchS",
+				"touchStartY"
+			],
+			[
+				"active",
+				"activeSection"
+			],
+			[
+				"load",
+				"loadnpmtasks	grunt.loadNpmTasks"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"repea",
+				"repeat-y"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"stop",
+				"stopAuto"
+			],
+			[
+				"pager",
+				"pagerQty"
+			],
+			[
+				"-",
+				"-	Function"
+			],
+			[
+				"then",
+				"then"
+			],
+			[
+				"medi",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"media",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"pla",
+				"placeholder	%placeholder"
+			],
+			[
+				"include",
+				"include	@include"
+			],
+			[
+				"gn-icon",
+				"gn-icon-illustrator"
+			],
+			[
+				"in",
+				"include	@include"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"get_template",
+				"get_template_part"
+			],
+			[
+				"get_blog",
+				"get_bloginfo"
+			],
+			[
+				"wp_enque",
+				"wp_enqueue_style"
+			],
+			[
+				"wp_enqueue",
+				"wp_enqueue_style"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"wp_enqueue_s",
+				"wp_enqueue_script"
+			],
+			[
+				"temp",
+				"template_directory"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"wp_register",
+				"wp_register_script"
+			],
+			[
+				"main",
+				"menu-mainmenu-container"
+			],
+			[
+				"get_b",
+				"get_bloginfo"
+			],
+			[
+				"td",
+				"td	<td>"
+			],
+			[
+				"title",
+				"title	<title>"
+			],
+			[
+				"get_post",
+				"get_post_meta"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"one",
+				"one"
+			],
+			[
+				"tkey",
+				"tkey"
+			],
+			[
+				"mb_co",
+				"mb_convert_encoding"
+			],
+			[
+				"FILES",
+				"_FILES"
+			],
+			[
+				"isset",
+				"isset"
+			],
+			[
+				"wp_check_filetype",
+				"wp_check_filetype"
+			],
+			[
+				"fopen",
+				"fopen"
+			],
+			[
+				"get_the",
+				"get_the_title"
+			],
+			[
+				"get_the_term",
+				"get_the_term_list"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"save",
+				"save_post_ID"
+			],
+			[
+				"read",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"渡し場",
+				"渡し土場"
+			],
+			[
+				"product",
+				"product_size"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"WP",
+				"WP_Query	New WP_Query Class"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"lease_en",
+				"lease_enable"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"waste_price",
+				"waste_price_unit2"
+			],
+			[
+				"waste_pri",
+				"waste_price_unit2"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tr",
+				"tr"
+			],
+			[
+				"the_",
+				"the_category"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"get_tem",
+				"get_template_part"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"show",
+				"show	show"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tri",
+				"trigger	trigger"
+			],
+			[
+				"o",
+				"ovy	overflow-y: ${1:hidden};"
+			],
+			[
+				"wp_enq",
+				"wp_enqueue_script"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tem",
+				"template_directory"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"wp_regi",
+				"wp_register_script"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2015-04-20.md",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 36,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Git",
+				"Gitignore: New gitignore"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"grunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Grunt",
+				"Grunt"
+			],
+			[
+				"gurnt",
+				"Grunt"
+			],
+			[
+				"lint",
+				"Coffee: Lint"
+			],
+			[
+				"grutn",
+				"Grunt"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"un",
+				"Permute Lines: Unique"
+			],
+			[
+				"insg",
+				"Package Control: Install Package"
+			],
+			[
+				"AddRepo",
+				"Package Control: Add Repository"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gurunt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"cakephp",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Snippet: Plugin Readme"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"Yeo",
+				"SublimeYeoman: Create project"
+			],
+			[
+				"Ye",
+				"SublimeYeoman: Create project"
+			],
+			[
+				"sub",
+				"SublimeYeoman: Create project"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"inst ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 452.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			" import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Project/Blog",
+		"/C/Project/Blog/_posts"
+	],
+	"file_history":
+	[
+		"/C/Project/Blog/_posts/2015-04-03-Secret-Sauce-Of-Gruntfile.md",
+		"/C/Project/Blog/_posts/2015-04-07-Try-Itamae.md",
+		"/C/Project/Blog/_posts/2015-04-01-Recently-Development-Environment.md",
+		"/C/Project/Blog/_posts/2015-03-31-Try-Moving-to-Gitubpage.md",
+		"/C/Project/Blog/_posts/2015-04-01-Recently-goodpractice-coffeescriptmodule.md",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/p_common.js",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomAboutWidget.php",
+		"/C/Project/tyTest/tyTest.sublime-workspace",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/common.js",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/pageslide.js",
+		"/C/Project/httpd.conf",
+		"/C/Project/Vagrantfile",
+		"/C/vccw/Vagrantfile",
+		"/C/vccw/www/wordpress/.htaccess",
+		"/C/Project/Hakuyoukai/product/wp-config.php",
+		"/C/Project/Hakuyoukai/product/.htaccess",
+		"/C/Project/set.sql",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/pageslide.css",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/style.css",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/wordpress-importer/parsers.php",
+		"/C/Project/test.conf",
+		"/C/Project/Hakuyoukai/product/wp-content/debug.log",
+		"/C/vccw/spec/default/vccw_spec.rb",
+		"/C/vccw/www/wordpress/wp-config.php",
+		"/C/vccw/cookbooks/openssl/recipes/default.rb",
+		"/C/vccw/cookbooks/build-essential/recipes/debian.rb",
+		"/C/vccw/cookbooks/openssl/README.md",
+		"/C/vccw/cookbooks/openssl/libraries/secure_password.rb",
+		"/C/vccw/cookbooks/openssl/metadata.rb",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomStyleLoader.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/timeline.css",
+		"/C/Project/Hakuyoukai/product/wp-admin/.htaccess",
+		"/C/vccw/cookbooks/apache2/attributes/mod_auth_openid.rb",
+		"/C/vccw/provision/packaging.sh",
+		"/C/vccw/cookbooks/apache2/attributes/mod_ssl.rb",
+		"/C/Project/Hakuyoukai/dist/entry.html",
+		"/C/vccw/site-cookbooks/wpcli/recipes/default.rb",
+		"/C/vccw/site-cookbooks/wpcli/recipes/install.rb",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/scriptLoader.php",
+		"/C/vccw/site-cookbooks/vccw/recipes/default.rb",
+		"/C/vccw/site-cookbooks/vccw/attributes/default.rb",
+		"/C/vccw/cookbooks/apache2/metadata.rb",
+		"/C/vccw/README.md",
+		"/C/Project/Hakuyoukai/product/wp-admin/includes/plugin-install.php",
+		"/C/Project/Hakuyoukai/product/wp-admin/plugin-install.php",
+		"/C/Project/Hakuyoukai/product/wp-admin/plugin-editor.php",
+		"/C/Project/Hakuyoukai/product/wp-includes/plugin.php",
+		"/C/Project/Hakuyoukai/product/wp-admin/plugins.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/page-loop.php",
+		"/C/Project/Hakuyoukai/package.json",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/googleplus.php",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/ps-disable-auto-formatting/ps_disable_auto_formatting.php",
+		"/C/Project/tyTest/wp-content/themes/TYDesignv2.0/Model/classCustomStyleLoader.php",
+		"/C/Project/tyTest/wp-content/themes/TYDesignv2.0/Controller/addCustomScript.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomScriptLoader.php",
+		"/C/Project/Hakuyoukai/product/wp-includes/update.php",
+		"/C/Project/Hakuyoukai/Gruntfile.coffee",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/contact-form/grunion-omnisearch.php",
+		"/C/Project/Hakuyoukai/node_modules/grunt-coffeecup/node_modules/coffeecup/node_modules/uglify-js/tmp/goto.js",
+		"/C/Project/ssl.conf",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/functions.php",
+		"/C/Project/phpMyAdmin.conf",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/wordpress.php",
+		"/C/Project/Hakuyoukai/product/wp-activate.php",
+		"/C/Users/Junya Onishi TY/VirtualBox VMs/Project_default_1421311466046_20157/Logs/VBoxStartup.log",
+		"/C/Users/Junya Onishi TY/Desktop/leaf_visual_style_for_windows7_by_dpcdpc11-d3aq6be/HOW TO!!!.txt",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/footer.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/history-loop.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/tounament-loop.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/officer-loop.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/loop.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/img/svg/emblem.svg",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/img/svg/emb.svg",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addCustomMenu.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomMenu.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomMenuSlider.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classDefine.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/header.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/horse-loop.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Tournament.php",
+		"/C/Project/Hakuyoukai/product/wp-includes/widgets.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classAutoGetTemplatePart.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomPost.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-History.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Horse.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Officer.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classSetAndCallArgs.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classLoaderbase.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/mobile.css",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/m_common.js",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/modernizr.js",
+		"/C/packer-templates/centos-7.0/template.json",
+		"/C/Vagrantfile",
+		"/C/Users/Junya Onishi TY/Desktop/index.php",
+		"/C/packer-templates/ubuntu-14.04/template.json",
+		"/C/Users/Junya Onishi TY/AppData/Local/Temp/fz3temp-1/php.ini",
+		"/C/tools/DevKit2/config.yml",
+		"/C/tools/ruby215/lib/ruby/site_ruby/devkit.rb",
+		"/C/RubyDevKit/config.yml",
+		"/C/Vagrant/embedded/config.yml",
+		"/C/Project/tyTest/wp-content/themes/TYDesignv2.0/View/Elements/archive-renewable_energy.php",
+		"/C/test/tutorial/README.md",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/history.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/reset.css",
+		"/Z/大西/README.txt",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Junya Onishi TY/.gemrc",
+		"/C/HaxLogs.txt",
+		"/C/opscode/chefdk/version-manifest.txt",
+		"/C/chef/cookbook/myapp/Berksfile",
+		"/C/chef/cookbook/myapp/recipes/default.rb",
+		"/C/Ricty/misc/os2version_reviser.sh",
+		"/Z/大西/内部資料/太陽光/パスワード/.htpasswd.txt",
+		"/C/Ricty/fontforge.bat",
+		"/C/Ricty/ricty_generator.sh",
+		"/Z/大西/内部資料/太陽光/パスワード(ベーシック認証)/チームビュワー.txt",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/bigVideo.css",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/imagesLoaded.js",
+		"/C/ckw/ckw.cfg",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/index.php",
+		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addThemeSupport.php",
+		"/Z/山内/03.IT事業/01.WEB関係/HomePage/メモ.txt",
+		"/C/Users/Junya Onishi TY/.gvimrc",
+		"/C/Users/Junya Onishi TY/.nyagos",
+		"/C/ckw/nyagos/.nyagos",
+		"/C/Users/Junya Onishi TY/.vimrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<VirtualHost",
+			"$raw_response",
+			"css",
+			"header",
+			"WXR_Parser_Regex",
+			"menu",
+			"submit",
+			".timeline",
+			".timelinecontainer",
+			"#main",
+			"debug",
+			"$ps_disable_auto_formatting",
+			"ps_disable_auto_formatting",
+			"http",
+			"https",
+			"459",
+			"options",
+			"raw_response",
+			"ssl",
+			"$response",
+			"Deny from",
+			"Deny fom",
+			"uxtheme.dll",
+			"$libCss",
+			"$libJs",
+			"$tview",
+			"$tView",
+			"WP_Widget",
+			"$wp_widget_factory",
+			"widget_class",
+			"$isMobile",
+			"content",
+			"test",
+			"permalink",
+			"page",
+			"ajax",
+			"page",
+			"parameters",
+			"permalink",
+			"page",
+			"this.page",
+			"path",
+			"page",
+			"/page",
+			"page",
+			"post",
+			"postname",
+			"page",
+			"permalinks()",
+			"location",
+			"push",
+			"section",
+			"post",
+			"#main",
+			".insti",
+			".instructor",
+			"pageslide",
+			"open",
+			"_load",
+			"iframe",
+			"useIframe",
+			"modal",
+			"options",
+			"$pageslide.data",
+			"pageslide",
+			"defaults",
+			"setting",
+			"pageslide",
+			"#pa",
+			"#pageslide",
+			"pageslide",
+			"body",
+			"detail",
+			"officercontainer",
+			"body",
+			"section",
+			"body",
+			".timeline",
+			".thumbnailbar",
+			".thumbnail",
+			"thumbnailbar",
+			"footer",
+			"section",
+			".more-link",
+			".more",
+			".more-link",
+			".contents",
+			"h2",
+			".contents",
+			".postinfo",
+			"section",
+			".content",
+			".icon",
+			"#main",
+			"windowWidth",
+			"windowHeight",
+			"scroll",
+			"parameters",
+			"%d",
+			"pageNum",
+			"page",
+			"pageSlug",
+			"location.",
+			"page",
+			".history",
+			"settings.history",
+			"settings",
+			"history",
+			"origURL",
+			"page",
+			".origURL",
+			"origURL",
+			"this.origURL",
+			"url",
+			"p",
+			"$",
+			" \"",
+			"[\"",
+			"apply_filters",
+			"\n        ",
+			"tView",
+			"\" ",
+			" \"",
+			"a",
+			"[\"",
+			"\",\"",
+			"b",
+			"if"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-04-20.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_xml": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 36,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Blog.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"plugin-in",
+				"product\\wp-admin\\includes\\plugin-install.php"
+			],
+			[
+				"grunt",
+				"node_modules/grunt/lib/grunt.js"
+			],
+			[
+				"inst",
+				"TYDesignv2.0/Model/admin-waste.php"
+			],
+			[
+				"",
+				"/C/xampp/htdocs/ty/wp-content/debug.log"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Project\\tyTest\\tyTest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

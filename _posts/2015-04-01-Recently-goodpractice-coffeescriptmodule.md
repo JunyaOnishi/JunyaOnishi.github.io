@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "最近の行儀の良いJavascriptをCoffeeScriptで書く"
-date:   2015-04-01 18:30:50
+title: "最近の行儀の良いJavascriptをCoffeeScriptで書く"
+date: 2015-04-01 18:30:50
 categories: CoffeeScript
 ---
 #### 最初に
