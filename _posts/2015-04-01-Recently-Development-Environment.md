@@ -54,6 +54,7 @@ end
 $ cinst -y vim
 {% endhighlight %}
 > 追記:Cream VimがUpdateでウンコ化したので、いまはKaoriya版をつかってます。
+
 - [VirtualBox](https://www.virtualbox.org/)(仮想環境作成)
 : 問題児、Stable(動かない)をよくやる。
 : 現状の選択肢がこれしか無いので、仕方なく使っている。
