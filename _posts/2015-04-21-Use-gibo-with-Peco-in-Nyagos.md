@@ -28,7 +28,7 @@ end
 function errCheck(str)
   if string.find(str, '[===]') then
     return nil
-  elseif str == '' then
+  elseif str == '' then -- escape key 対策
     return nil
   else
     return str

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Pro",
+				"Project\\"
+			],
+			[
 				"get_template_d",
 				"get_template_directory_uri"
 			],
@@ -510,32 +514,11 @@
 			[
 				"re",
 				"repeat-x"
-			],
-			[
-				"wp_regi",
-				"wp_register_script"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "_posts/2015-04-20-What-is-scoop.md",
-			"settings":
-			{
-				"buffer_size": 753,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/2015-04-21-Use-gibo-with-Peco-in-Nyagos.md",
-			"settings":
-			{
-				"buffer_size": 110,
-				"line_ending": "Unix",
-				"name": "---"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -544,10 +527,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 220.0,
-		"last_filter": "git push",
+		"height": 400.0,
+		"last_filter": "inst",
 		"selected_items":
 		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"git push",
 				"Git: Push"
@@ -563,14 +554,6 @@
 			[
 				"git",
 				"Git: Gui"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"Git",
@@ -709,6 +692,26 @@
 	],
 	"file_history":
 	[
+		"/C/Project/Blog/_posts/2015-04-21-Use-gibo-with-Peco-in-Nyagos.md",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
+		"//192.168.1.2/共有/新しいテキスト ドキュメント.txt",
+		"/D/新しいテキスト ドキュメント.txt",
+		"/Z/大西/README.txt",
+		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js",
+		"/C/otp.bat",
+		"/Z/大西/lib/DOTFILE/.bashrc",
+		"/C/Users/Junya Onishi TY/.npmrc",
+		"/C/tools/npm-cli/node_modules/minichain/package.json",
+		"/C/Users/Junya Onishi TY/Desktop/node_modules/npm/.npmrc",
+		"/C/tools/nyagos/nyagos.d/phq.lua",
+		"/C/tools/nyagos/nyagos.d/pbow.lua",
+		"/C/tools/nyagos/nyagos.d/pcd.lua",
+		"/C/Users/Junya Onishi TY/.pcd_list",
+		"/C/tools/nyagos/nyagos_ja.md",
+		"/C/Users/Junya Onishi TY/.nyagos",
+		"/C/tools/nyagos/nyagos.d/pgi.lua",
+		"/C/.gitignore",
 		"/C/Project/Blog/_posts/2015-04-01-Recently-Development-Environment.md",
 		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/.gitignore",
 		"/C/Project/Blog/_posts/2015-04-20-What-is-scoop.md",
@@ -804,7 +807,6 @@
 		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classLoaderbase.php",
 		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/mobile.css",
 		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php",
-		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.js",
 		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/m_common.js",
 		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/modernizr.js",
 		"/C/packer-templates/centos-7.0/template.json",
@@ -817,30 +819,11 @@
 		"/C/RubyDevKit/config.yml",
 		"/C/Vagrant/embedded/config.yml",
 		"/C/Project/tyTest/wp-content/themes/TYDesignv2.0/View/Elements/archive-renewable_energy.php",
-		"/C/test/tutorial/README.md",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/history.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/reset.css",
-		"/Z/大西/README.txt",
-		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/Junya Onishi TY/.gemrc",
-		"/C/HaxLogs.txt",
-		"/C/opscode/chefdk/version-manifest.txt",
-		"/C/chef/cookbook/myapp/Berksfile",
-		"/C/chef/cookbook/myapp/recipes/default.rb",
-		"/C/Ricty/misc/os2version_reviser.sh",
-		"/Z/大西/内部資料/太陽光/パスワード/.htpasswd.txt",
-		"/C/Ricty/fontforge.bat",
-		"/C/Ricty/ricty_generator.sh",
-		"/Z/大西/内部資料/太陽光/パスワード(ベーシック認証)/チームビュワー.txt",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/bigVideo.css",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/imagesLoaded.js",
-		"/C/ckw/ckw.cfg",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/index.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addThemeSupport.php"
+		"/C/test/tutorial/README.md"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -854,6 +837,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"alias",
 			"<VirtualHost",
 			"$raw_response",
 			"css",
@@ -980,8 +964,7 @@
 			"a",
 			"[\"",
 			"\",\"",
-			"b",
-			"if"
+			"b"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -999,188 +982,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_posts/2015-04-20-What-is-scoop.md",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 753,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								113,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"is_xml": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_posts/2015-04-21-Use-gibo-with-Peco-in-Nyagos.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 110,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								110,
-								110
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "---",
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"is_xml": false,
-							"origin_encoding": "UTF-8",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
