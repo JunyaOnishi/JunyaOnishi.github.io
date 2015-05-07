@@ -33,7 +33,6 @@ function errCheck(str)
   else
     return str
   end
-endd
 end
 {% endhighlight %}
 
@@ -45,3 +44,5 @@ C:> pgi
 
 pecoでgibo -lが選択できるようになるので、ignoreしたいものを選択する。
 pecoは機能的にCtrl+Spaceで複数検索ができるのでそれにも対応している。
+便利な世の中になったものです。
+

@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"Se",
+				"Seti (SL).tmTheme"
+			],
+			[
+				"exists",
+				"existsDirectory"
+			],
+			[
 				"Pro",
 				"Project\\"
 			],
@@ -506,19 +514,19 @@
 			[
 				"tem",
 				"template_directory"
-			],
-			[
-				"co",
-				"content"
-			],
-			[
-				"re",
-				"repeat-x"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2015-05-07.md",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -533,6 +541,10 @@
 		[
 			[
 				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
 				"Package Control: Install Package"
 			],
 			[
@@ -668,7 +680,7 @@
 	},
 	"console":
 	{
-		"height": 452.0,
+		"height": 463.0,
 		"history":
 		[
 			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
@@ -692,7 +704,46 @@
 	],
 	"file_history":
 	[
+		"/C/ProgramData/chocolatey/bin/cacert.pem",
+		"/C/tools/Vim/gvimrc",
+		"/C/tools/Vim/vimrc",
+		"/C/Project/Blog/_posts/2015-05-07.md",
 		"/C/Project/Blog/_posts/2015-04-21-Use-gibo-with-Peco-in-Nyagos.md",
+		"/C/tools/Vim/plugins/golang/plugin/extra.vim",
+		"/C/tools/Vim/plugins/golang/README.md",
+		"/C/tools/Vim/plugins/kaoriya/plugin/cmdex.vim",
+		"/C/tools/Vim/plugins/kaoriya/keymap/tutcode_cp932.vim",
+		"/C/tools/Vim/plugins/kaoriya/plugin/autodate.vim",
+		"/C/tools/Vim/vim74/vimrc_example.vim",
+		"/C/Users/Junya Onishi TY/Desktop/errMsg_Mbl.txt",
+		"/C/tools/Vim/.vim/bundle/unite.vim/autoload/unite.vim",
+		"/C/tools/Vim/vim74/mswin.vim",
+		"/C/tools/Vim/vim74/syntax/javascript.vim",
+		"/C/Users/Junya Onishi TY/_viminfo",
+		"/C/tools/Vim/vim74/autoload/phpcomplete.vim",
+		"/C/tools/Vim/vim74/autoload/python3complete.vim",
+		"/C/tools/Vim/vim74/autoload/pythoncomplete.vim",
+		"/C/tools/Vim/lua/jit/dump.lua",
+		"/C/tools/Vim/lua/jit/p.lua",
+		"/C/tools/Vim/lua/jit/v.lua",
+		"/C/tools/Vim/lua/jit/vmdef.lua",
+		"/C/tools/Vim/lua/jit/zone.lua",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/tools/Vim/lua/jit/bc.lua",
+		"/C/tools/Vim/lua/jit/bcsave.lua",
+		"/C/tools/Vim/lua/jit/dis_arm.lua",
+		"/C/tools/Vim/lua/jit/dis_mips.lua",
+		"/C/tools/Vim/lua/jit/dis_mipsel.lua",
+		"/C/tools/Vim/lua/jit/dis_ppc.lua",
+		"/C/tools/Vim/lua/jit/dis_x64.lua",
+		"/C/tools/Vim/lua/jit/dis_x86.lua",
+		"/C/tools/Vim/.vim/bundle/neomru.vim/autoload/neomru.vim",
+		"/C/tools/Vim/.vim/bundle/nerdtree/autoload/nerdtree.vim",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/IME.py",
+		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Junya Onishi TY/.pcd_list",
+		"/C/tools/nyagos/nyagos.d/pcd.lua",
 		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/User/Jekyll.sublime-settings",
 		"/C/Users/Junya Onishi TY/AppData/Roaming/Sublime Text 3/Packages/Jekyll/Jekyll.sublime-settings",
 		"//192.168.1.2/共有/新しいテキスト ドキュメント.txt",
@@ -706,8 +757,6 @@
 		"/C/Users/Junya Onishi TY/Desktop/node_modules/npm/.npmrc",
 		"/C/tools/nyagos/nyagos.d/phq.lua",
 		"/C/tools/nyagos/nyagos.d/pbow.lua",
-		"/C/tools/nyagos/nyagos.d/pcd.lua",
-		"/C/Users/Junya Onishi TY/.pcd_list",
 		"/C/tools/nyagos/nyagos_ja.md",
 		"/C/Users/Junya Onishi TY/.nyagos",
 		"/C/tools/nyagos/nyagos.d/pgi.lua",
@@ -782,44 +831,7 @@
 		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/wordpress.php",
 		"/C/Project/Hakuyoukai/product/wp-activate.php",
 		"/C/Users/Junya Onishi TY/VirtualBox VMs/Project_default_1421311466046_20157/Logs/VBoxStartup.log",
-		"/C/Users/Junya Onishi TY/Desktop/leaf_visual_style_for_windows7_by_dpcdpc11-d3aq6be/HOW TO!!!.txt",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/footer.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/history-loop.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/tounament-loop.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/officer-loop.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/loop.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/img/svg/emblem.svg",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/img/svg/emb.svg",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addCustomMenu.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomMenu.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomMenuSlider.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classDefine.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/header.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/horse-loop.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Tournament.php",
-		"/C/Project/Hakuyoukai/product/wp-includes/widgets.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classAutoGetTemplatePart.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classCustomPost.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-History.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Horse.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Controller/addPostType-Officer.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classSetAndCallArgs.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/Model/classLoaderbase.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/css/mobile.css",
-		"/C/Project/Hakuyoukai/product/wp-content/plugins/jetpack/modules/infinite-scroll/infinity.php",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/m_common.js",
-		"/C/Project/Hakuyoukai/product/wp-content/themes/ridingclub/View/js/modernizr.js",
-		"/C/packer-templates/centos-7.0/template.json",
-		"/C/Vagrantfile",
-		"/C/Users/Junya Onishi TY/Desktop/index.php",
-		"/C/packer-templates/ubuntu-14.04/template.json",
-		"/C/Users/Junya Onishi TY/AppData/Local/Temp/fz3temp-1/php.ini",
-		"/C/tools/DevKit2/config.yml",
-		"/C/tools/ruby215/lib/ruby/site_ruby/devkit.rb",
-		"/C/RubyDevKit/config.yml",
-		"/C/Vagrant/embedded/config.yml",
-		"/C/Project/tyTest/wp-content/themes/TYDesignv2.0/View/Elements/archive-renewable_energy.php",
-		"/C/test/tutorial/README.md"
+		"/C/Users/Junya Onishi TY/Desktop/leaf_visual_style_for_windows7_by_dpcdpc11-d3aq6be/HOW TO!!!.txt"
 	],
 	"find":
 	{
@@ -837,6 +849,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"問題点",
+			"color",
+			"_install_extras",
+			"$HOME",
+			"    ]",
+			"cpathAddSlash",
+			"pcdorigin",
 			"alias",
 			"<VirtualHost",
 			"$raw_response",
@@ -957,14 +976,7 @@
 			" \"",
 			"[\"",
 			"apply_filters",
-			"\n        ",
-			"tView",
-			"\" ",
-			" \"",
-			"a",
-			"[\"",
-			"\",\"",
-			"b"
+			"\n        "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -982,8 +994,98 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-05-07.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1083,6 +1185,11 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "C:\\Program Files\\Sublime Text 3"
+		}
 	},
 	"show_minimap": true,
 	"show_open_files": false,
