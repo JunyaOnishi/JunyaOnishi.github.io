@@ -14,6 +14,7 @@ categories: VisualStudioCode
 なんでか知りませんが、中華フォントなので直します。
 
 > %USERPROFILE%\AppData\Local\Code\app-0.1.0\resources\app\client\vs\monaco\ui\workbench\native\native.main.css
+
 font-familyに中華フォントが大量に設定されているので直す。
 アイコンフォントの指定をやっている時もあるので非常に紛らわしい。
 
