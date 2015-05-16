@@ -5,7 +5,7 @@ date: 2015-05-07 10:25:50
 categories: VisualStudioCode
 ---
 ## ダウンロード
--[VisulStudioCode](https://code.visualstudio.com/)
+- [VisulStudioCode](https://code.visualstudio.com/)
 
 ## インストール後
 
