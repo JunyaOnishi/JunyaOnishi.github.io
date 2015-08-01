@@ -4,13 +4,14 @@ title: "GithubPageに引っ越ししてみた"
 date: 2015-03-31 14:17:50
 categories: jekyll
 ---
-###ことのあらまし
+### ことのあらまし
 以前はtumblr.に[ブログ](http://gruntjo.tumblr.com/)を作っていたのですが、なんか技術屋っぽくなくね！？と言うことでGithubに移行して、テンプレートエンジンとしてjekyllを使用してみることにしました。
 
-###なにがちがうの？
+### なにがちがうの？
 今度はsyntax highlighterも搭載し、Python, Ruby, md記法ととてもえんじにあっぽい構成になっています！
 
-##### phpでシングルトンパターン置いておきますね
+#### phpでシングルトンパターン置いておきますね
+
 {% highlight php5 linenos %}
 <?php
 // Singleton.php
