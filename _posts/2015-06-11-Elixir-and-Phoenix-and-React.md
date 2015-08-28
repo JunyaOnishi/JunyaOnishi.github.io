@@ -7,7 +7,7 @@ categories: Elixir Phoenixframework React
 ## はじめに
 - [Elixir](http://elixir-lang.org/)
 : Elixirは[ErlangVM(BEAM)](http://www.erlang.org/)上で動作する、Rubyライクな関数型言語です。
-: Erlandは、[論理型言語](http://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)っぽく書かれており、クセが強く書きづらいものでした。
+: Erlangは、[論理型言語](http://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)っぽく書かれており、クセが強く書きづらいものでした。
 : しかし、大規模FPSゲームなどの舞台裏で使用されており、元々ゲーム畑出身である私もその存在は耳にしておりました。
 : Rubyライクな文法で書ける、関数型言語というだけでキュンときて学習を決意。
 
