@@ -14,17 +14,9 @@ categories: Tools
 
 ## 使ってるものを洗い出す。
 
-<<<<<<< HEAD
 - Sublime Text3
   機種固有のキャッシュ等が多いのと自己更新が付いているのがめんどくさい
   まず%USERPROFILE%にデータをあまり置きたくない。
 - Vim
 - Vagrant
 - VirtualBox
-=======
--- Sublime Text3
--- Vim
--- Vagrant
--- VirtualBox
->>>>>>> 05bed8a45f3e5cf4a3156e520442f92e50e995e6
-
